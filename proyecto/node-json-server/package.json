@@ -1,0 +1,20 @@
+{
+  "name": "proyecto",
+  "version": "1.0.0",
+  "description": "Proyecto en Node",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "json-server --watch src/db.json"
+  },
+  "author": "Stevens Natali",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "env-var": "^7.5.0",
+    "json-server": "^1.0.0-beta.3"
+  }
+}

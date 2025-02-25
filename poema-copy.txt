@@ -1,0 +1,14 @@
+En la noche del código brilla un fulgor,
+NodeJS corre, sin miedo, sin error.
+Ligero y ágil, sin freno avanza,
+en cada petición, su magia alcanza.
+
+Con JavaScript al backend llegó,
+un solo lenguaje, el mundo unió.
+Asíncrono, fuerte, veloz como el viento,
+sirviendo respuestas en cada momento.
+
+Oh, NodeJS, con tu Express fiel,
+levantas servidores con puro poder.
+En cada request, en cada JSON,
+eres el pulso del mundo moderno.

@@ -1,0 +1,64 @@
+{
+  "profesores": [
+    {
+      "nombre": "Juan",
+      "apellido": "Perez",
+      "materias": [
+        "Matematicas",
+        "Fisica",
+        "Quimica"
+      ],
+      "id": "8ce9"
+    },
+    {
+      "id": "5cfe",
+      "nombre": "Milagros",
+      "apellido": "Aruiz",
+      "materias": [
+        "Fisico Quimica",
+        "Biologia",
+        "Ciencias Sociales",
+        "Lengua"
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Pepe",
+      "apellido": "Gomez",
+      "materias": [
+        "Matematicas",
+        "Fisica",
+        "Quimica"
+      ],
+      "calificaciones": [
+        8,
+        9,
+        7
+      ],
+      "id": "a920"
+    },
+    {
+      "nombre": "Maria",
+      "apellido": "Estela",
+      "materias": [
+        "Matematicas",
+        "Fisica",
+        "Quimica"
+      ],
+      "calificaciones": [
+        5,
+        6,
+        7
+      ],
+      "id": "f5e0"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "5B",
+      "preceptor": "Hugo chavez",
+      "id": "4070"
+    }
+  ]
+}
