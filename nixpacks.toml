@@ -1,2 +1,2 @@
 [build]
-subdir = "proyecto/API REST"
+subdir = "./proyecto/API REST"
